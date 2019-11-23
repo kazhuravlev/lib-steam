@@ -1,0 +1,92 @@
+{
+  "result": {
+    "app": {
+      "version": 13542,
+      "timestamp": 1469171637,
+      "time": "Fri Jul 22 00:13:57 2016"
+    },
+    "services": {
+      "SessionsLogon": "normal",
+      "SteamCommunity": "normal",
+      "IEconItems": "normal",
+      "Leaderboards": "normal"
+    },
+    "datacenters": {
+      "EU West": {
+        "capacity": "full",
+        "load": "idle"
+      },
+      "EU East": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "Hong Kong": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "Spain": {
+        "capacity": "full",
+        "load": "idle"
+      },
+      "Chile": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "US Southwest": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "US Southeast": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "India": {
+        "capacity": "full",
+        "load": "medium"
+      },
+      "EU North": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "Emirates": {
+        "capacity": "full",
+        "load": "idle"
+      },
+      "US Northwest": {
+        "capacity": "full",
+        "load": "idle"
+      },
+      "South Africa": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "Brazil": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "US Northeast": {
+        "capacity": "full",
+        "load": "idle"
+      },
+      "Japan": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "Singapore": {
+        "capacity": "full",
+        "load": "low"
+      },
+      "Australia": {
+        "capacity": "full",
+        "load": "medium"
+      }
+    },
+    "matchmaking": {
+      "scheduler": "normal",
+      "online_servers": 196856,
+      "online_players": 216389,
+      "searching_players": 3613,
+      "search_seconds_avg": 61
+    }
+  }
+}

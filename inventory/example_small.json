@@ -1,0 +1,342 @@
+{
+    "success": true,
+    "rgInventory": {
+        "4899982346": {
+            "id": "4899982346",
+            "classid": "469438644",
+            "instanceid": "188530139",
+            "amount": "1",
+            "pos": 1
+        }
+    },
+    "rgCurrency": [],
+    "rgDescriptions": {
+        "469438644_188530139": {
+            "appid": "730",
+            "classid": "469438644",
+            "instanceid": "188530139",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLddgJS_tOxhoWYhP7iDLfYkWNFpsMm27vD9Iqs2gHnqRdvZm6gI4fEcwM8ZAyBqVS_lO3vh5-075TMynd9-n51xJ7ya_c",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLddgJS_tOxhoWYhP7iDLfYkWNF18lwmO7Eu4qi2Qa2qhVlYWzwdtKWdwFtZlmB-1S8xLq-1pO96Z7Jy3tr6Skn5nrD30vgYhMJ-CM",
+            "icon_drag_url": "",
+            "name": "AUG | Torque",
+            "market_hash_name": "AUG | Torque (Minimal Wear)",
+            "market_name": "AUG | Torque (Minimal Wear)",
+            "name_color": "D2D2D2",
+            "background_color": "",
+            "type": "Restricted Rifle",
+            "tradable": 1,
+            "marketable": 1,
+            "commodity": 0,
+            "market_tradable_restriction": "7",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom painted with a robotics inspired pattern."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Huntsman Collection",
+                    "color": "9da1a9",
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    }
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "actions": [
+                {
+                    "name": "Inspect in Game...",
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14871671477262531114"
+                }
+            ],
+            "market_actions": [
+                {
+                    "name": "Inspect in Game...",
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D14871671477262531114"
+                }
+            ],
+            "tags": [
+                {
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle",
+                    "category": "Type",
+                    "category_name": "Type"
+                },
+                {
+                    "internal_name": "weapon_aug",
+                    "name": "AUG",
+                    "category": "Weapon",
+                    "category_name": "Weapon"
+                },
+                {
+                    "internal_name": "set_community_3",
+                    "name": "The Huntsman Collection",
+                    "category": "ItemSet",
+                    "category_name": "Collection"
+                },
+                {
+                    "internal_name": "normal",
+                    "name": "Normal",
+                    "category": "Quality",
+                    "category_name": "Category"
+                },
+                {
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "name": "Restricted",
+                    "category": "Rarity",
+                    "color": "8847ff",
+                    "category_name": "Quality"
+                },
+                {
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear",
+                    "category": "Exterior",
+                    "category_name": "Exterior"
+                }
+            ]
+        },
+        "1372333725_480085569": {
+            "appid": "730",
+            "classid": "1372333725",
+            "instanceid": "480085569",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-dluX9MLrcmVRd4cJ5nqeWrNit2AewqhY_Yj31cIDGJgRtZV-E8gS2xOzv0Z_qucvJm3M16SFw-z-DyBeWkcOk",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-dluX9MLrcmVRd4cJ5ntbN9J7yjRrj8kdkY2qnddPGc1I4NV6DrlPtxem7jcO0uZ_JnXs1v3Yit36LzBTln1gSOVPvlQi-",
+            "icon_drag_url": "",
+            "name": "M4A1-S | VariCamo",
+            "market_hash_name": "M4A1-S | VariCamo (Minimal Wear)",
+            "market_name": "M4A1-S | VariCamo (Minimal Wear)",
+            "name_color": "D2D2D2",
+            "background_color": "",
+            "type": "Mil-Spec Grade Rifle",
+            "tradable": 1,
+            "marketable": 1,
+            "commodity": 0,
+            "market_tradable_restriction": "7",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted using a VariCamo patterned hydrographic.\n\n<i>Rebuilding only comes in the wake of destruction</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Dust 2 Collection",
+                    "color": "9da1a9",
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    }
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker Details\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/sig_nbk.eb52861e4bdddaf5cc337fc4f6e408545a759eb6.png\"><br>Sticker: NBK- | Cluj-Napoca 2015</center></div>",
+                    "app_data": {
+                        "def_index": "65535"
+                    }
+                }
+            ],
+            "actions": [
+                {
+                    "name": "Inspect in Game...",
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12451938683321398592"
+                }
+            ],
+            "market_actions": [
+                {
+                    "name": "Inspect in Game...",
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D12451938683321398592"
+                }
+            ],
+            "tags": [
+                {
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle",
+                    "category": "Type",
+                    "category_name": "Type"
+                },
+                {
+                    "internal_name": "weapon_m4a1_silencer",
+                    "name": "M4A1-S",
+                    "category": "Weapon",
+                    "category_name": "Weapon"
+                },
+                {
+                    "internal_name": "set_dust_2",
+                    "name": "The Dust 2 Collection",
+                    "category": "ItemSet",
+                    "category_name": "Collection"
+                },
+                {
+                    "internal_name": "normal",
+                    "name": "Normal",
+                    "category": "Quality",
+                    "category_name": "Category"
+                },
+                {
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade",
+                    "category": "Rarity",
+                    "color": "4b69ff",
+                    "category_name": "Quality"
+                },
+                {
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear",
+                    "category": "Exterior",
+                    "category_name": "Exterior"
+                },
+                {
+                    "internal_name": "Tournament8",
+                    "name": "2015 DreamHack Cluj-Napoca",
+                    "category": "Tournament",
+                    "category_name": "Tournament"
+                },
+                {
+                    "internal_name": "Team46",
+                    "name": "Team EnVyUs",
+                    "category": "TournamentTeam",
+                    "category_name": "Team"
+                },
+                {
+                    "internal_name": "nbk",
+                    "name": "NBK- (Nathan Schmitt)",
+                    "category": "ProPlayer",
+                    "category_name": "Professional Player"
+                }
+            ]
+        },
+        "469438644_480085569": {
+            "appid": "730",
+            "classid": "469438644",
+            "instanceid": "480085569",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLddgJS_tOxhoWYhP7iDLfYkWNFpsMm27vD9Iqs2gHnqRdvZm6gI4fEcwM8ZAyBqVS_lO3vh5-075TMynd9-n51xJ7ya_c",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLddgJS_tOxhoWYhP7iDLfYkWNF18lwmO7Eu4qi2Qa2qhVlYWzwdtKWdwFtZlmB-1S8xLq-1pO96Z7Jy3tr6Skn5nrD30vgYhMJ-CM",
+            "icon_drag_url": "",
+            "name": "AUG | Torque",
+            "market_hash_name": "AUG | Torque (Minimal Wear)",
+            "market_name": "AUG | Torque (Minimal Wear)",
+            "name_color": "D2D2D2",
+            "background_color": "",
+            "type": "Restricted Rifle",
+            "tradable": 1,
+            "marketable": 1,
+            "commodity": 0,
+            "market_tradable_restriction": "7",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom painted with a robotics inspired pattern."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Huntsman Collection",
+                    "color": "9da1a9",
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    }
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "actions": [
+                {
+                    "name": "Inspect in Game...",
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5354465826496623752"
+                }
+            ],
+            "market_actions": [
+                {
+                    "name": "Inspect in Game...",
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5354465826496623752"
+                }
+            ],
+            "tags": [
+                {
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle",
+                    "category": "Type",
+                    "category_name": "Type"
+                },
+                {
+                    "internal_name": "weapon_aug",
+                    "name": "AUG",
+                    "category": "Weapon",
+                    "category_name": "Weapon"
+                },
+                {
+                    "internal_name": "set_community_3",
+                    "name": "The Huntsman Collection",
+                    "category": "ItemSet",
+                    "category_name": "Collection"
+                },
+                {
+                    "internal_name": "normal",
+                    "name": "Normal",
+                    "category": "Quality",
+                    "category_name": "Category"
+                },
+                {
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "name": "Restricted",
+                    "category": "Rarity",
+                    "color": "8847ff",
+                    "category_name": "Quality"
+                },
+                {
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear",
+                    "category": "Exterior",
+                    "category_name": "Exterior"
+                }
+            ]
+        }
+    },
+    "more": false,
+    "more_start": false
+}
